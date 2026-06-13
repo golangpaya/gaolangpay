@@ -55,9 +55,6 @@ golangpay版本演示地址：
 
 测试账号密码会定期更改，如不对请联系客服发新的账号密码
 
-开发文档
-
-https://www.golangpay.com
 
 golangpay版本演示地址：
 
