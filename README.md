@@ -125,4 +125,4 @@ golang-service	12309	业务接口
 
 聚合支付系统 四方支付系统 第四方支付平台 三方平台，核销平台，核销系统 码商系统 golangpay 聚合支付系统 四方支付系统 第四方支付平台 三方平台，核销平台
 
-请联系飞机：[tianxiex](https://t.me/tianxiex)
+请联系飞机：[gsosos](https://t.me/tianxiex)
